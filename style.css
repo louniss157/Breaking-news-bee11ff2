@@ -1,0 +1,44 @@
+.navbar{
+    display: flex;
+    background-color: darkorange;
+    justify-content: space-around;
+}
+
+ 
+
+.content {
+    display: flex;
+    background-color: blanchedalmond;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    justify-self: right;
+}
+
+ 
+
+.news{
+    width: 30%;
+}
+
+ 
+
+h1~p{
+    text-align: center;
+
+ 
+
+}
+
+ 
+
+#breakingnews h3{
+    font-size: 350%
+}
+
+ 
+
+.content p{
+    display: block;
+    width: 100%;
+}
